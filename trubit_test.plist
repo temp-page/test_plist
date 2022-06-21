@@ -19,7 +19,7 @@
          <key>need-shine</key>
          <integer>0</integer>
          <key>url</key>
-          <string>https://gitlab.com/liu584129914/test/-/raw/main/test512.png</string>
+          <string>https://gitlab.com/liu584129914/test/-/raw/main/testlogo.png</string>
         </dict>
       </array>
       <key>metadata</key>
@@ -27,7 +27,7 @@
         <key>bundle-identifier</key>
         <string>com.oakk.starocket-wallet.dev</string>
         <key>bundle-version</key>
-        <string>1.0</string>
+        <string>0.0.2</string>
         <key>kind</key>
         <string>software</string>
         <key>title</key>
