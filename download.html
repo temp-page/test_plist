@@ -8,14 +8,20 @@
 <title>iOS企业版下载测试</title> 
 </head> 
 <body> 
+
+
  
 <p align="center">
-	<!-- 这里就用到了上文提到的itms-services协议了 -->
-	<a href="itms-services://?action=download-manifest&url=https://static.trubit.com/static/plist/trubit_online.plist">ios_online点击下载</a>		
+	<a className="App-link" href="itms-services://?action=download-manifest&url=https://gitlab.com/liu584129914/test/-/raw/main/trubit_test.plist" download>ios_test点击下载</a>	
 </p>
 <p align="center">
-	<!-- 这里就用到了上文提到的itms-services协议了 -->
-	<a href="itms-services://?action=download-manifest&url=https://gitlab.com/liu584129914/test/-/raw/main/trubit.plist">ios_test点击下载</a>		
+	<a className="App-link" href={'https://gitlab.com/liu584129914/test/-/raw/main/apk/app-dev-release.apk'} download>android_test点击下载</a>	
+</p>
+<p align="center">
+	<a className="App-link" href="itms-services://?action=download-manifest&url=https://gitlab.com/liu584129914/test/-/raw/main/trubit.plist" download>ios_online点击下载</a>
+</p>
+<p align="center">
+	<a className="App-link" href={'https://gitlab.com/liu584129914/test/-/raw/main/apk/app-prod-release.apk'} download>android_online点击下载</a>
 </p>
 </div>
 </body> 
