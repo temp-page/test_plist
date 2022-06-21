@@ -11,7 +11,7 @@
           <key>kind</key>
           <string>software-package</string>
           <key>url</key>
-          <string>https://gitee.com/liu584129914/blog/raw/master/trubit_wallet.ipa</string>
+          <string>https://static.trubit.com/public/app/bc94da75bc804116ae817acf7e5a614c.ipa</string>
         </dict>
       </array>
       <key>metadata</key>
@@ -23,7 +23,7 @@
         <key>kind</key>
         <string>software</string>
         <key>title</key>
-        <string>河北电信工作助手</string>
+        <string>trubit</string>
       </dict>
     </dict>
   </array>
